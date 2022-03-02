@@ -1,0 +1,24 @@
+body {
+	max-width: 800px;
+    margin: auto;
+}
+#div, h2 {
+	min-width: 300px;
+	/*max-width: 800px;*/
+}
+h2 {
+	padding: 0 10px;
+	/*text-align: center;*/
+  margin: 0;
+}
+.btn {
+  text-decoration: none;
+  font-size: 5vw;
+  text-align: center;
+  margin: 10px;
+  padding: 15px 10px;
+  border: 3px solid #6a0acd;
+  display: block;
+}
+
+<img src='https://e.unicode-table.com/origin/0d/5232f11b284da4884088de94d0da1d.png'
