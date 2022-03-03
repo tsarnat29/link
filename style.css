@@ -13,7 +13,8 @@ h2 {
 }
 .btn {
   text-decoration: none;
-  font-size: 3vw;
+  font-size: 4vw;
+  font-weight: 500;
   text-align: center;
   margin: 5px;
   padding: 10px 5px;
@@ -21,4 +22,4 @@ h2 {
   display: block;
 }
 
-/*<img src='https://e.unicode-table.com/origin/0d/5232f11b284da4884088de94d0da1d.png'*/
+/*<img src='https://e.unicode-table.com/origin/0d/5232f11b284da4884088de94d0da1d.png'>*/
